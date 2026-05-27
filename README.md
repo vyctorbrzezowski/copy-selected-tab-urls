@@ -12,8 +12,6 @@ It is built for the tab workflow Chrome already supports: select tabs with Shift
 
 <video src="https://zingy-harbor-ykgr.here.now/export-1779910657943.mp4" controls muted loop playsinline width="100%"></video>
 
-[Watch the demo video](https://zingy-harbor-ykgr.here.now/export-1779910657943.mp4)
-
 ## Features
 
 - Copy the URLs of all selected Chrome tabs.
