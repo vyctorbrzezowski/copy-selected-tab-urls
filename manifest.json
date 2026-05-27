@@ -3,7 +3,7 @@
   "name": "Copy Selected Tab URLs",
   "short_name": "Copy Tab URLs",
   "description": "Copy URLs from selected Chrome tabs with one click.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimum_chrome_version": "116",
   "homepage_url": "https://github.com/vyctorbrzezowski/copy-selected-tab-urls",
   "icons": {

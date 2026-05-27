@@ -1,19 +1,15 @@
-# Copy Selected Tab URLs v1.0.0
+# Copy Selected Tab URLs v1.0.1
 
-Initial release of a lightweight Chrome extension for copying URLs from selected tabs.
+Patch release for copy formatting and README examples.
 
 Highlights:
 
-- Copy URLs from selected Chrome tabs with one click.
-- Preserve left-to-right tab order.
-- See the selected tab count on the extension badge.
-- Get a short check mark after successful copy.
-- Paste into multiline or single-line fields without URLs running together.
-- No tracking, analytics, or network requests.
+- Uses trailing spaces after each copied URL, keeping the pasted output cleaner while still preventing URLs from running together when newlines are stripped.
+- Replaces local/private-looking sample URLs in the README with neutral public examples.
 
 Install:
 
-1. Download `copy-selected-tab-urls-v1.0.0.zip`.
+1. Download `copy-selected-tab-urls-v1.0.1.zip`.
 2. Unzip it.
 3. Open `chrome://extensions`.
 4. Enable Developer mode.

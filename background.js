@@ -100,7 +100,7 @@ async function copySelectedTabUrls(clickedTab) {
 }
 
 function formatUrlsForClipboard(urls) {
-  return urls.join(" \n ");
+  return `${urls.join(" \n")} `;
 }
 
 async function getSelectedTabs(clickedTab) {

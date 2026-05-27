@@ -23,7 +23,7 @@ It is built for the tab workflow Chrome already supports: select tabs with Shift
 
 ### From a GitHub release
 
-1. Download `copy-selected-tab-urls-v1.0.0.zip` from the latest release.
+1. Download `copy-selected-tab-urls-v1.0.1.zip` from the latest release.
 2. Unzip it.
 3. Open `chrome://extensions`.
 4. Enable Developer mode.
@@ -47,12 +47,12 @@ It is built for the tab workflow Chrome already supports: select tabs with Shift
 The copied output looks like this:
 
 ```text
-https://web.whatsapp.com/ 
- http://localhost:3000/skills/publish?ownerHandle=local 
- chrome://extensions/
+https://github.com/ 
+https://developer.chrome.com/docs/extensions/ 
+https://www.wikipedia.org/ 
 ```
 
-The leading spaces after each line break are intentional. If an app removes newlines on paste, the URLs still remain separated by spaces.
+The trailing spaces are intentional. If an app removes newlines on paste, the URLs still remain separated by spaces.
 
 ## Permissions
 

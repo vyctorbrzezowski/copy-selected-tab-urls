@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1
+
+- Use trailing spaces after each copied URL so examples stay clean while links remain separated when newlines are stripped.
+- Replace local/private-looking sample URLs in the README with neutral public examples.
+
 ## 1.0.0
 
 - Initial release.
