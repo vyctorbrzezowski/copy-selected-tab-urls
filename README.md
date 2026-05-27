@@ -8,6 +8,12 @@ A lightweight Chrome extension for copying URLs from selected tabs in one click.
 
 It is built for the tab workflow Chrome already supports: select tabs with Shift-click or Command-click, click the extension, and paste a clean list of links anywhere.
 
+## Demo
+
+<video src="https://zingy-harbor-ykgr.here.now/export-1779910657943.mp4" controls muted loop playsinline width="100%"></video>
+
+[Watch the demo video](https://zingy-harbor-ykgr.here.now/export-1779910657943.mp4)
+
 ## Features
 
 - Copy the URLs of all selected Chrome tabs.
